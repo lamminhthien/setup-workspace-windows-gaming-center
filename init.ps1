@@ -17,5 +17,12 @@ choco install docker-desktop
 git config --global user.email "lamminhthien02012000@gmail.com"
 git config --global user.name "Thien Lam"
 
+# Download nvm for windows
+# $urlNVM = "https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe"
+# $outputPathNVM = "C:\nvm-setup.exe"
+# Invoke-WebRequest -Uri $urlNVM -OutFile $outputPathNVM
+# cd C:\
+# .\nvm-setup.exe
+
 # Setup ssh key
-ssh-keygen
+# ssh-keygen
