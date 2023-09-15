@@ -10,10 +10,6 @@ choco install vscode -y
 # Install NVM
 choco install nvm -y
 
-
-# PostgresQL
-choco install postgresql14 -y
-
 # DBeaver
 choco install dbeaver -y
 
