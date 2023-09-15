@@ -30,8 +30,14 @@ nvm use 18
 npm install -g yarn
 
 
+# PostgresQL
+choco install postgresql14 -y
+
+# DBeaver
+choco install dbeaver -y
+
 # Docker
-choco install docker-desktop -y
+# choco install docker-desktop -y
 
 
 
