@@ -25,5 +25,11 @@ git config --global user.name "Thien Lam"
 # Setup ssh key
 # ssh-keygen
 
-# Install Docker Desktop
-choco install docker-desktop
+nvm install 18
+nvm use 18
+npm install -g yarn
+
+
+
+
+
