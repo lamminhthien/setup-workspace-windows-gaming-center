@@ -11,18 +11,6 @@ choco install vscode -y
 choco install nvm -y
 
 
-# Config git
-git config --global user.email "lamminhthien02012000@gmail.com"
-git config --global user.name "Thien Lam"
-
-# Setup ssh key
-ssh-keygen
-
-nvm install 18
-nvm use 18
-npm install -g yarn
-
-
 # PostgresQL
 choco install postgresql14 -y
 
@@ -31,6 +19,18 @@ choco install dbeaver -y
 
 # Docker
 choco install docker-desktop -y
+
+
+##### This must be run manual on other powershell window
+# Config git
+git config --global user.email "lamminhthien02012000@gmail.com"
+git config --global user.name "Thien Lam"
+
+nvm install 18
+nvm use 18
+npm install -g yarn
+
+
 
 
 
