@@ -18,9 +18,9 @@ git config --global user.name "Thien Lam"
 # Setup ssh key
 # ssh-keygen
 
-nvm install 18
-nvm use 18
-npm install -g yarn
+# nvm install 18
+# nvm use 18
+# npm install -g yarn
 
 
 # PostgresQL
