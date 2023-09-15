@@ -6,3 +6,6 @@ choco install vscode -y
 
 # Install Git
 choco install git -y
+
+# Install Docker Desktop
+choco install docker-desktop
