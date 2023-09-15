@@ -13,5 +13,9 @@ choco install nvm -y
 # Install Docker Desktop
 choco install docker-desktop
 
+# Config git
+git config --global user.email "lamminhthien02012000@gmail.com"
+git config --global user.name "Thien Lam"
+
 # Setup ssh key
 ssh-keygen
